@@ -1,0 +1,15 @@
+torch>=2.3
+torchvision
+timm>=0.9
+scikit-learn
+scikit-image
+scipy
+pandas
+tabulate
+numpy
+matplotlib
+pillow
+imagehash
+grad-cam
+gradio>=4
+tqdm
